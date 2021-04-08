@@ -1,4 +1,4 @@
-package pl.coderslab;
+package pl.coderslab.config;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
